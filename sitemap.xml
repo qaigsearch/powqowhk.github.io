@@ -1,16 +1,33 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<urlset
-      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
-      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
-            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
-<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
-
-
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!--  created with Free Online Sitemap Generator www.xml-sitemaps.com  -->
 <url>
-  <loc>https://powqowhk.github.io/</loc>
-  <lastmod>2020-07-04T15:12:51+00:00</lastmod>
+<loc>https://powqowhk.github.io/</loc>
+<lastmod>2020-07-06T09:04:51+00:00</lastmod>
+<changefreq>daily</changefreq>
+<priority>1.00</priority>
 </url>
-
-
+<url>
+<loc>https://powqowhk.github.io/index.html</loc>
+<lastmod>2020-07-06T09:04:51+00:00</lastmod>
+<changefreq>daily</changefreq>
+<priority>0.80</priority>
+</url>
+<url>
+<loc>https://powqowhk.github.io/cn/about.html</loc>
+<lastmod>2020-07-06T09:04:51+00:00</lastmod>
+<changefreq>daily</changefreq>
+<priority>0.80</priority>
+</url>
+<url>
+<loc>https://powqowhk.github.io/cn/blog.html</loc>
+<lastmod>2020-07-06T09:04:51+00:00</lastmod>
+<changefreq>daily</changefreq>
+<priority>0.80</priority>
+</url>
+<url>
+<loc>https://powqowhk.github.io/cn/igshop.html</loc>
+<lastmod>2020-07-06T09:04:51+00:00</lastmod>
+<changefreq>daily</changefreq>
+<priority>0.80</priority>
+</url>
 </urlset>
